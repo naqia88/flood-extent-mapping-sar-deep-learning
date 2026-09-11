@@ -368,9 +368,10 @@ The next stage of the project will focus on extending the current pipeline towar
 
 ## Author
 
-**Miss Firdous**
-
-Undergraduate Data Science Student
+**Naqia Firdous**  
+GitHub: [@naqia88](https://github.com/naqia88)  
+Undergraduate Data Science Researcher  
+Pakistan  
 
 **Project Area:** Deep Learning • Remote Sensing • Semantic Segmentation • Disaster Mapping
 
